@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblinalg.a  CMakeFiles/linalg.dir/vectorview.cpp.o CMakeFiles/linalg.dir/vector.cpp.o CMakeFiles/linalg.dir/operator.cpp.o CMakeFiles/linalg.dir/densematrix.cpp.o CMakeFiles/linalg.dir/sparsematrix.cpp.o CMakeFiles/linalg.dir/coomatrix.cpp.o
+/usr/bin/ranlib liblinalg.a
